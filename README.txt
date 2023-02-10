@@ -1,5 +1,3 @@
-# Market accessment scorecard and Dashboards
- 
 ![Dashboard screenshot1](screenshots/Dashboard1.PNG)
 ![Dashboard screenshot2](screenshots/Dashboard2.PNG)
 ![Dashboard screenshot3](screenshots/Dashboard3.PNG)
